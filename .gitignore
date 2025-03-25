@@ -1,0 +1,8 @@
+# Ignore dataset files
+data/*.csv
+data/*.xlsx
+
+# Ignore generated files
+results/
+__pycache__/
+.ipynb_checkpoints/
