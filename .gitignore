@@ -1,6 +1,6 @@
 # Ignore dataset files
-data/*.csv
-data/*.xlsx
+#data/*.csv
+#data/*.xlsx
 
 # Ignore generated files
 results/
