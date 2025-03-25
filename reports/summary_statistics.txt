@@ -1,0 +1,75 @@
+
+ ---- Sales Data Statistics ----
+Mean:
+Store              22.200546
+Dept               44.260317
+Weekly_Sales    15981.258123
+IsHoliday           0.070358
+dtype: float64
+Median:
+Store             22.00
+Dept              37.00
+Weekly_Sales    7612.03
+IsHoliday          0.00
+dtype: float64
+Standard Deviation:
+Store              12.785297
+Dept               30.492054
+Weekly_Sales    22711.183519
+IsHoliday           0.255750
+dtype: float64
+
+ ---- Stores Data Statistics ----
+Mean:
+Store        23.0
+Size     130287.6
+dtype: float64
+Median:
+Store        23.0
+Size     126512.0
+dtype: float64
+Standard Deviation:
+Store       13.133926
+Size     63825.271991
+dtype: float64
+
+ ---- Features Data Statistics ----
+Mean:
+Store             23.000000
+Temperature       59.356198
+Fuel_Price         3.405992
+MarkDown1       7032.371786
+MarkDown2       3384.176594
+MarkDown3       1760.100180
+MarkDown4       3292.935886
+MarkDown5       4132.216422
+CPI              172.460809
+Unemployment       7.826821
+IsHoliday          0.071429
+dtype: float64
+Median:
+Store             23.000000
+Temperature       60.710000
+Fuel_Price         3.513000
+MarkDown1       4743.580000
+MarkDown2        364.570000
+MarkDown3         36.260000
+MarkDown4       1176.425000
+MarkDown5       2727.135000
+CPI              182.764003
+Unemployment       7.806000
+IsHoliday          0.000000
+dtype: float64
+Standard Deviation:
+Store              12.987966
+Temperature        18.678607
+Fuel_Price          0.431337
+MarkDown1        9262.747448
+MarkDown2        8793.583016
+MarkDown3       11276.462208
+MarkDown4        6792.329861
+MarkDown5       13086.690278
+CPI                39.738346
+Unemployment        1.877259
+IsHoliday           0.257555
+dtype: float64
