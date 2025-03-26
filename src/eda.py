@@ -16,8 +16,6 @@ def clean_features_data(df):
 #Function to Calculate mean, median, and standard deviation for numeric columns of a DataFrame and save it to a text file.
 def calculate_and_save_statistics(df, dataset_name, file):
    
-    # Calculate statistics
-
     file.write(f"\n ---- {dataset_name} Statistics ----\n")
     file.write("Mean:\n" + str(df.mean(numeric_only=True)) + "\n")
     file.write("Median:\n" + str(df.median(numeric_only=True)) + "\n")
